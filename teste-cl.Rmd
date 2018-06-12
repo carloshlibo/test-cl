@@ -1,6 +1,6 @@
 ---
 title: "teste-cl"
-author: "Carlos Henrique LIbório"
+author: "Carlos Henrique Libório"
 date: "12 de junho de 2018"
 output: word_document
 ---
@@ -8,6 +8,11 @@ output: word_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+```{r}
+plot(1:10)
+```
+
 
 ## R Markdown
 
