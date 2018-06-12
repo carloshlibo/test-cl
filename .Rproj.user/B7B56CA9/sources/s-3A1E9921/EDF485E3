@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528807177072.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2469791824",
+    "id" : "EDF485E3",
+    "lastKnownWriteTime" : 1528807194,
+    "last_content_update" : 1528807194654,
+    "path" : "~/Desktop/teste-cl/teste-cl/teste-cl.Rmd",
+    "project_path" : "teste-cl.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
